@@ -1,21 +1,16 @@
-# 💰 Sistema Bancário em Python - V2 🚀
+# 💰 Sistema Bancário em Python - V3 🚀
 
 ## 📌 Sobre o Projeto
-Esta é a segunda versão do **Sistema Bancário Simples**, agora com melhorias na estruturação e novas funcionalidades. Os usuários podem realizar **depósitos, saques, consultas de extrato**, além de **criar contas correntes** e **cadastrar usuários**.
+Este projeto implementa um **sistema bancário modular**, agora desenvolvido com **Programação Orientada a Objetos (POO)**, proporcionando **maior organização, escalabilidade e eficiência**.
 
-## 🚀 Funcionalidades
-- 🏦 **Depósito** – Permite adicionar saldo à conta bancária.
-- 💸 **Saque** – Com regras de limite de valor e quantidade de saques diários.
-- 📜 **Extrato** – Exibe todas as transações realizadas e o saldo disponível.
-- 👤 **Cadastro de usuários** – Registro de clientes com CPF único.
-- 🏦 **Criação de conta corrente** – Vinculação de conta a um usuário existente.
-- 📋 **Listagem de contas** – Visualização de todas as contas cadastradas.
-- 🎛 **Menu interativo** – Interface baseada em terminal para fácil utilização.
+## 🚀 Novidades da V3
+- 👤 **Cadastro de clientes** – Permite múltiplas contas por usuário.
+- 🏦 **Modelagem de contas** – Contas bancárias associadas a clientes, com histórico de transações.
+- 💸 **Operações bancárias encapsuladas** – Métodos organizados para depósitos e saques.
+- 📜 **Histórico de transações** – Todas as movimentações são registradas e podem ser consultadas a qualquer momento.
+- 🛠 **Código modular e reutilizável** – Melhor organização e separação de responsabilidades.
 
 ## 🛠 Tecnologias Utilizadas
 - **Python** – Linguagem de programação principal.
-- **Estrutura modular** – Separação de operações em funções para melhor organização.
-- **Validações e regras de negócio** – Controle de saldo, transações e segurança dos dados.
-
-## 🔎 Objetivo do Projeto
-Esta versão do sistema bancário foi desenvolvida para aprimorar conceitos de **programação estruturada**, **uso de funções**, **armazenamento de dados** e **controle de fluxo**.  
+- **Programação Orientada a Objetos (POO)** – Código mais limpo e organizado.
+- **Encapsulamento e Herança** – Melhor reutilização e abstração.
